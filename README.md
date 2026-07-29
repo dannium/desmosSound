@@ -1,5 +1,6 @@
 # Desmos Audio
-converts data from .wav files into desmos
+converts data from .wav files into desmos!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+check it out at https://www.desmos.com/calculator/yccglkqkej
 
 ## About 
 ok so I’m sure you’ve seen people make a bunch of stuff on Desmos, bad apple, minecraft, but somehow playing audio was like the one thing that hadn’t been done (from what I saw), so I decided to make desmos audio
